@@ -1,0 +1,62 @@
+.contact-list-container1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact{
+    background-color: ghostwhite;
+    border: 2px solid black;
+    width: 20%;
+    text-align: center;
+    height: 250px;
+    margin-left: 8px;
+
+}
+.contact-list-container{
+    text-align: center;
+}
+
+.home{
+    text-align: center;
+}
+.h2 {
+    color: blue;
+    text-decoration: underline;
+}
+
+.button {
+    margin-left: 8px;
+}
+
+
+.button.btnadd {
+    margin-top: 13px;
+
+}
+
+.add-contact-container {
+    border: 1px solid;
+    width: 252px;
+    text-align: center;
+    margin-left: 40%;
+    height: 412px;
+    background-color: ghostwhite;
+    margin-top: 9%;
+}
+
+.edittt{
+    border: 1px solid;
+    width: 252px;
+    text-align: center;
+    margin-left: 40%;
+    height: 412px;
+    background-color: ghostwhite;
+    margin-top: 9%;
+
+
+}
+
+body {
+    background-image: url("http://www.laconnexionprospere.com/wp-content/uploads/2018/05/contact-background-image-9.jpg");
+    
+   }
